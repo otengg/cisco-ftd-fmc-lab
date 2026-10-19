@@ -9,6 +9,7 @@ Two FTD firewalls managed by a single FMC — access control policy, IPS, URL fi
 ![Cisco FMC](https://img.shields.io/badge/Cisco_FMC-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![CML](https://img.shields.io/badge/CML-005073?style=flat-square&logo=cisco&logoColor=white)
 ![Status](https://img.shields.io/badge/status-completed-6b7280?style=flat-square)
+[![Write-up](https://img.shields.io/badge/write--up-securebytes.net-3fb950?style=flat-square&labelColor=0d1117)](https://securebytes.net/projects/cisco-ftd-fmc-lab/)
 
 </div>
 
